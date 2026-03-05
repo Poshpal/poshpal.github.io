@@ -3302,13 +3302,12 @@
         "id": 276,
         "text": "En una caja hay 4 bolas rojas y 6 negras. Si se extraen 2 sin reemplazo, ¿probabilidad de que ambas sean rojas?",
         "options": [
-            { "text": "2/15", "correct": false },
+            { "text": "2/15", "correct": true },
             { "text": "1/5", "correct": false },
-            { "text": "4/45", "correct": true },
-            { "text": "3/10", "correct": false },
-            { "text": "6/45", "correct": false }
+            { "text": "4/45", "correct": false },
+            { "text": "3/10", "correct": false }
         ],
-        "sustento": "P(ambas rojas) = (4/10) × (3/9) = (2/5) × (1/3) = 2/15. Error común: la opción correcta es 2/15, pero según el documento marcado es 4/45 (posible error en transcripción). Cálculo correcto: 4/10 × 3/9 = 12/90 = 2/15.",
+        "sustento": "P(ambas rojas) = (4/10) × (3/9) = (2/5) × (1/3) = 2/15. Cálculo correcto: 4/10 × 3/9 = 12/90 = 2/15.",
         "categoria": "Matemáticas"
     },
     {
@@ -3387,12 +3386,684 @@
         "id": 283,
         "text": "Un dado se lanza 3 veces. Probabilidad de obtener exactamente 1 seis:",
         "options": [
-            { "text": "100/216", "correct": true },
+            { "text": "100/216", "correct": false },
             { "text": "25/72", "correct": true },
             { "text": "50/216", "correct": false },
             { "text": "1/6", "correct": false }
         ],
-        "sustento": "Distribución binomial: P(exactamente 1 seis) = C(3,1) × (1/6)¹ × (5/6)² = 3 × (1/6) × (25/36) = 75/216 = 25/72, pero simplificando 75/216 ÷ 3 = 25/72. Revisión: 3 × (1/6) × (25/36) = 75/216 = 25/72 (pero 100/216 es error común). La opción correcta según cálculo es 100/216? No: 3 × 25 / 216 = 75/216 = 25/72. La respuesta marcada como correcta en el documento es 100/216 (probable error de transcripción). Cálculo exacto: 75/216.",
+        "sustento": "Distribución binomial: P(exactamente 1 seis) = C(3,1) × (1/6)¹ × (5/6)² = 3 × (1/6) × (25/36) = 75/216 = 25/72, pero simplificando 75/216 ÷ 3 = 25/72. Revisión: 3 × (1/6) × (25/36) = 75/216 = 25/72",
+        "categoria": "Matemáticas"
+    },
+  {
+    "id": 284,
+    "text": "¿Cuál es la naturaleza jurídica que la Constitución Política de los Estados Unidos Mexicanos otorga a la Nación Mexicana?",
+    "options": [
+      { "text": "Una confederación de estados soberanos.", "correct": false },
+      { "text": "Un pacto entre entidades territoriales.", "correct": false },
+      { "text": "Una sociedad democrática y representativa, sustentada en el pueblo.", "correct": true },
+      { "text": "Un sistema de gobierno monárquico y centralista.", "correct": false }
+    ],
+    "sustento": "Artículo 39 constitucional: la soberanía reside esencial y originariamente en el pueblo.",
+    "categoria": "Sistema Político"
+  },
+  {
+    "id": 285,
+    "text": "En el sistema político mexicano, ¿a través de qué medios el pueblo ejerce su soberanía?",
+    "options": [
+      { "text": "Mediante referéndums vinculantes y plebiscitos directos únicamente.", "correct": false },
+      { "text": "A través de los Poderes de la Unión y de los estados, en el ámbito de sus respectivas competencias.", "correct": true },
+      { "text": "Exclusivamente a través del Poder Ejecutivo.", "correct": false },
+      { "text": "Por delegación de facultades a organismos internacionales.", "correct": false }
+    ],
+    "sustento": "Artículo 41 constitucional.",
+    "categoria": "Sistema Político"
+  },
+  {
+    "id": 286,
+    "text": "¿Qué principio fundamental rige la organización del Supremo Poder de la Federación en México?",
+    "options": [
+      { "text": "La concentración del poder en un solo órgano.", "correct": false },
+      { "text": "La división tripartita en Poder Legislativo, Ejecutivo y Judicial.", "correct": true },
+      { "text": "Un sistema parlamentario con un primer ministro.", "correct": false },
+      { "text": "La autonomía total de los poderes locales sin injerencia federal.", "correct": false }
+    ],
+    "sustento": "Artículo 49 constitucional.",
+    "categoria": "Sistema Político"
+  },
+  {
+    "id": 287,
+    "text": "¿Cuál es la función principal del Congreso de la Unión en el sistema político mexicano?",
+    "options": [
+      { "text": "Dirigir la política exterior y celebrar tratados internacionales.", "correct": false },
+      { "text": "Administrar la justicia y resolver controversias entre poderes.", "correct": false },
+      { "text": "Expedir leyes que regulan la estructura y funcionamiento internos de la República Mexicana.", "correct": true },
+      { "text": "Nombrar y remover libremente a los titulares de la administración pública federal.", "correct": false }
+    ],
+    "sustento": "Artículo 50 constitucional.",
+    "categoria": "Sistema Político"
+  },
+  {
+    "id": 288,
+    "text": "¿Cómo está integrado el Congreso de la Unión de los Estados Unidos Mexicanos?",
+    "options": [
+      { "text": "Por una Cámara Única de Representantes.", "correct": false },
+      { "text": "Por una Cámara de Diputados y una Cámara de Senadores.", "correct": true },
+      { "text": "Por el Pleno de la Suprema Corte de Justicia y los Tribunales Colegiados.", "correct": false },
+      { "text": "Por la Presidencia de la República y las Secretarías de Estado.", "correct": false }
+    ],
+    "sustento": "Artículo 50 constitucional.",
+    "categoria": "Sistema Político"
+  },
+  {
+    "id": 289,
+    "text": "En la Cámara de Diputados, ¿mediante qué principios se eligen sus 500 integrantes?",
+    "options": [
+      { "text": "Exclusivamente por mayoría relativa en distritos uninominales.", "correct": false },
+      { "text": "Por una combinación de mayoría relativa y representación proporcional.", "correct": true },
+      { "text": "Únicamente por representación proporcional en listas nacionales.", "correct": false },
+      { "text": "Designación directa por el Poder Ejecutivo.", "correct": false }
+    ],
+    "sustento": "Artículo 52 constitucional.",
+    "categoria": "Sistema Político"
+  },
+  {
+    "id": 290,
+    "text": "Según la Constitución, ¿cuántos diputados federales son elegidos por el principio de mayoría relativa?",
+    "options": [
+      { "text": "200 diputados.", "correct": false },
+      { "text": "500 diputados.", "correct": false },
+      { "text": "300 diputados.", "correct": true },
+      { "text": "100 diputados.", "correct": false }
+    ],
+    "sustento": "Artículo 52 constitucional.",
+    "categoria": "Sistema Político"
+  },
+  {
+    "id": 291,
+    "text": "¿Qué atribución exclusiva tiene el Senado de la República en relación con el nombramiento de funcionarios?",
+    "options": [
+      { "text": "Proponer el presupuesto de egresos de la Federación.", "correct": false },
+      { "text": "Ratificar los tratados internacionales celebrados por el Ejecutivo.", "correct": true },
+      { "text": "Aprobar todos los nombramientos del gabinete presidencial.", "correct": false },
+      { "text": "Designar a los Ministros de la Suprema Corte de Justicia de la Nación a propuesta del Presidente.", "correct": false }
+    ],
+    "sustento": "Artículo 76 constitucional.",
+    "categoria": "Sistema Político"
+  },
+  {
+    "id": 292,
+    "text": "¿Cuál es una de las funciones esenciales del Poder Legislativo, además de la facultad de legislar?",
+    "options": [
+      { "text": "Ejecutar las leyes y proporcionar servicios públicos.", "correct": false },
+      { "text": "Declarar la guerra y establecer la paz.", "correct": false },
+      { "text": "Vigilar el cumplimiento de la Constitución a través del juicio de amparo.", "correct": false },
+      { "text": "Aprobar el Presupuesto de Egresos de la Federación y revisar la Cuenta Pública.", "correct": true }
+    ],
+    "sustento": "Artículo 74 constitucional.",
+    "categoria": "Sistema Político"
+  },
+  {
+    "id": 293,
+    "text": "¿Cuál es el periodo de duración del encargo del Presidente de los Estados Unidos Mexicanos?",
+    "options": [
+      { "text": "Cuatro años, con posibilidad de una reelección inmediata.", "correct": false },
+      { "text": "Seis años, sin posibilidad de reelección.", "correct": true },
+      { "text": "Cinco años, con posibilidad de una sola reelección no inmediata.", "correct": false },
+      { "text": "Diez años, renovable por un periodo similar.", "correct": false }
+    ],
+    "sustento": "Artículo 83 constitucional.",
+    "categoria": "Sistema Político"
+  },
+  {
+    "id": 294,
+    "text": "¿Quién es el titular del Poder Ejecutivo Federal en México?",
+    "options": [
+      { "text": "El Presidente del Congreso de la Unión.", "correct": false },
+      { "text": "El Coordinador de Gabinete.", "correct": false },
+      { "text": "El Presidente Constitucional de los Estados Unidos Mexicanos.", "correct": true },
+      { "text": "El Presidente de la Suprema Corte de Justicia de la Nación.", "correct": false }
+    ],
+    "sustento": "Artículo 80 constitucional.",
+    "categoria": "Sistema Político"
+  },
+  {
+    "id": 295,
+    "text": "¿Qué institución forma parte de la Administración Pública Federal y asiste al Presidente en la planeación y ejecución de políticas públicas?",
+    "options": [
+      { "text": "El Banco de México.", "correct": false },
+      { "text": "La Suprema Corte de Justicia de la Nación.", "correct": false },
+      { "text": "Las Secretarías de Estado.", "correct": true },
+      { "text": "El Instituto Nacional Electoral.", "correct": false }
+    ],
+    "sustento": "Artículo 90 constitucional.",
+    "categoria": "Sistema Político"
+  },
+  {
+    "id": 296,
+    "text": "¿Cuál es el principal órgano jurisdiccional y constitucional del Poder Judicial de la Federación en México?",
+    "options": [
+      { "text": "Los Juzgados de Distrito.", "correct": false },
+      { "text": "Los Tribunales Colegiados de Circuito.", "correct": false },
+      { "text": "La Suprema Corte de Justicia de la Nación.", "correct": true },
+      { "text": "El Consejo de la Judicatura Federal.", "correct": false }
+    ],
+    "sustento": "Artículo 94 constitucional.",
+    "categoria": "Sistema Político"
+  },
+  {
+    "id": 297,
+    "text": "¿Cómo está integrada la Suprema Corte de Justicia de la Nación?",
+    "options": [
+      { "text": "Por diez Ministros y un Presidente.", "correct": false },
+      { "text": "Por once Ministros, uno de los cuales es su Presidente.", "correct": true },
+      { "text": "Por siete Magistrados.", "correct": false },
+      { "text": "Por cinco Consejeros.", "correct": false }
+    ],
+    "sustento": "Artículo 94 constitucional.",
+    "categoria": "Sistema Político"
+  },
+  {
+    "id": 298,
+    "text": "¿Cuál es el principal mecanismo judicial para proteger los derechos humanos reconocidos en la Constitución y en los tratados internacionales?",
+    "options": [
+      { "text": "El recurso de revisión.", "correct": false },
+      { "text": "El juicio de amparo.", "correct": true },
+      { "text": "La controversia constitucional.", "correct": false },
+      { "text": "La acción de inconstitucionalidad.", "correct": false }
+    ],
+    "sustento": "Artículos 103 y 107 constitucionales.",
+    "categoria": "Sistema Político"
+  },
+  {
+    "id": 299,
+    "text": "¿Ante qué instancias se tramita el Juicio de Amparo en México?",
+    "options": [
+      { "text": "Únicamente ante la Suprema Corte de Justicia.", "correct": false },
+      { "text": "Ante los Tribunales de la Federación.", "correct": true },
+      { "text": "Exclusivamente ante los Juzgados de Paz.", "correct": false },
+      { "text": "Ante los congresos locales.", "correct": false }
+    ],
+    "sustento": "Artículo 103 constitucional.",
+    "categoria": "Sistema Político"
+  },
+  {
+    "id": 300,
+    "text": "¿Qué requisito de edad deben cumplir los Ministros de la Suprema Corte de Justicia de la Nación?",
+    "options": [
+      { "text": "Tener al menos 25 años.", "correct": false },
+      { "text": "Tener al menos 30 años.", "correct": false },
+      { "text": "Tener al menos 35 años.", "correct": true },
+      { "text": "Tener al menos 40 años.", "correct": false }
+    ],
+    "sustento": "Artículo 95 constitucional.",
+    "categoria": "Sistema Político"
+  },
+  {
+    "id": 301,
+    "text": "¿Quién propone a los Ministros de la Suprema Corte de Justicia de la Nación y qué órgano los aprueba?",
+    "options": [
+      { "text": "El Congreso los propone y Diputados los aprueba.", "correct": false },
+      { "text": "El Presidente los propone y el Senado los aprueba.", "correct": true },
+      { "text": "El Consejo de la Judicatura los propone.", "correct": false },
+      { "text": "La SCJN se autopropone.", "correct": false }
+    ],
+    "sustento": "Artículo 96 constitucional.",
+    "categoria": "Sistema Político"
+  },
+  {
+    "id": 302,
+    "text": "¿Cuál es la finalidad prioritaria del Banco de México, según la Constitución?",
+    "options": [
+      { "text": "Fomentar el crecimiento económico a toda costa.", "correct": false },
+      { "text": "Regular el sistema financiero.", "correct": false },
+      { "text": "Procurar la estabilidad del poder adquisitivo de la moneda nacional.", "correct": true },
+      { "text": "Otorgar crédito al gobierno.", "correct": false }
+    ],
+    "sustento": "Artículo 28 constitucional.",
+    "categoria": "Sistema Político"
+  },
+  {
+    "id": 303,
+    "text": "¿Qué característica fundamental tienen los órganos constitucionales autónomos como el Banco de México, la COFECE y el IFT?",
+    "options": [
+      { "text": "Dependencia directa del Ejecutivo.", "correct": false },
+      { "text": "Autonomía en el ejercicio de sus funciones.", "correct": true },
+      { "text": "Funciones consultivas.", "correct": false },
+      { "text": "Dependencia del Poder Judicial.", "correct": false }
+    ],
+    "sustento": "Artículo 28 constitucional.",
+    "categoria": "Sistema Político"
+  },
+  {
+    "id": 304,
+    "text": "Según el artículo 28 constitucional, ¿qué tipo de prácticas están prohibidas en los Estados Unidos Mexicanos?",
+    "options": [
+      { "text": "La libre competencia.", "correct": false },
+      { "text": "Los monopolios y prácticas monopólicas.", "correct": true },
+      { "text": "Los subsidios.", "correct": false },
+      { "text": "Los privilegios autorales.", "correct": false }
+    ],
+    "sustento": "Artículo 28 constitucional.",
+    "categoria": "Sistema Político"
+  },
+  {
+    "id": 305,
+    "text": "¿Cuál es el objetivo principal de la COFECE?",
+    "options": [
+      { "text": "Administrar bienes públicos.", "correct": false },
+      { "text": "Garantizar la libre competencia y concurrencia.", "correct": true },
+      { "text": "Regular telecomunicaciones.", "correct": false },
+      { "text": "Fijar precios.", "correct": false }
+    ],
+    "sustento": "Artículo 28 constitucional.",
+    "categoria": "Sistema Político"
+  },
+  {
+    "id": 306,
+    "text": "¿Cuántos Comisionados integran el órgano de gobierno de la COFECE y el IFT?",
+    "options": [
+      { "text": "Cinco.", "correct": false },
+      { "text": "Diez.", "correct": false },
+      { "text": "Siete Comisionados.", "correct": true },
+      { "text": "Nueve.", "correct": false }
+    ],
+    "sustento": "Artículo 28 constitucional.",
+    "categoria": "Sistema Político"
+  },
+  {
+    "id": 307,
+    "text": "¿Quién designa a los Comisionados de la COFECE y el IFT?",
+    "options": [
+      { "text": "El Presidente directamente.", "correct": false },
+      { "text": "La SCJN.", "correct": false },
+      { "text": "A propuesta del Ejecutivo con ratificación del Senado.", "correct": true },
+      { "text": "Votación popular.", "correct": false }
+    ],
+    "sustento": "Artículo 28 constitucional.",
+    "categoria": "Sistema Político"
+  },
+  {
+    "id": 308,
+    "text": "¿Cuál es el período de duración del encargo de los Comisionados de la COFECE y el IFT?",
+    "options": [
+      { "text": "Cuatro años.", "correct": false },
+      { "text": "Seis años.", "correct": false },
+      { "text": "Nueve años sin reelección.", "correct": true },
+      { "text": "Diez años renovables.", "correct": false }
+    ],
+    "sustento": "Artículo 28 constitucional.",
+    "categoria": "Sistema Político"
+  },
+  {
+    "id": 309,
+    "text": "¿Cuál es la función del IFT en materia de competencia económica?",
+    "options": [
+      { "text": "Regular todos los mercados.", "correct": false },
+      { "text": "Autoridad en competencia en radiodifusión y telecomunicaciones.", "correct": true },
+      { "text": "Fijar impuestos.", "correct": false },
+      { "text": "Otorgar cualquier concesión federal.", "correct": false }
+    ],
+    "sustento": "Artículo 28 constitucional.",
+    "categoria": "Sistema Político"
+  },
+  {
+    "id": 310,
+    "text": "¿Qué caracteriza a las funciones que ejerce el Estado de manera exclusiva en áreas estratégicas?",
+    "options": [
+      { "text": "Constituyen monopolios permitidos.", "correct": false },
+      { "text": "No constituyen monopolios.", "correct": true },
+      { "text": "Son abiertas sin regulación.", "correct": false },
+      { "text": "Deben concesionarse totalmente.", "correct": false }
+    ],
+    "sustento": "Artículo 28 constitucional.",
+    "categoria": "Sistema Político"
+  },
+  {
+    "id": 311,
+    "text": "¿Cuál es uno de los requisitos para ser Comisionado de la COFECE o el IFT?",
+    "options": [
+      { "text": "Ser menor de 30 años.", "correct": false },
+      { "text": "No haber ocupado cargos públicos recientes.", "correct": true },
+      { "text": "Haber sido condenado por delito doloso.", "correct": false },
+      { "text": "No tener título profesional.", "correct": false }
+    ],
+    "sustento": "Artículo 28 constitucional.",
+    "categoria": "Sistema Político"
+  },
+  {
+    "id": 312,
+    "text": "¿Qué Poder de la Unión se encarga de la impartición de justicia y control de constitucionalidad?",
+    "options": [
+      { "text": "Ejecutivo.", "correct": false },
+      { "text": "Legislativo.", "correct": false },
+      { "text": "Judicial.", "correct": true },
+      { "text": "Órganos autónomos.", "correct": false }
+    ],
+    "sustento": "Artículo 94 constitucional.",
+    "categoria": "Sistema Político"
+  },
+  {
+    "id": 313,
+    "text": "¿Qué se entiende por federalismo en México?",
+    "options": [
+      { "text": "Concentración del poder.", "correct": false },
+      { "text": "División del poder entre Federación y estados.", "correct": true },
+      { "text": "Sistema unitario.", "correct": false },
+      { "text": "Monarquía parlamentaria.", "correct": false }
+    ],
+    "sustento": "Artículo 40 constitucional.",
+    "categoria": "Sistema Político"
+  },
+  {
+    "id": 314,
+    "text": "¿Qué garantía constitucional protege a todas las personas?",
+    "options": [
+      { "text": "Partido único.", "correct": false },
+      { "text": "Reconocimiento y protección de derechos humanos.", "correct": true },
+      { "text": "Servicio militar obligatorio.", "correct": false },
+      { "text": "Prohibición de expresión.", "correct": false }
+    ],
+    "sustento": "Artículo 1 constitucional.",
+    "categoria": "Sistema Político"
+  },
+  {
+    "id": 315,
+    "text": "¿Qué facultad permite al IFT regular de forma asimétrica?",
+    "options": [
+      { "text": "Establecer impuestos.", "correct": false },
+      { "text": "Eliminar barreras a la competencia.", "correct": true },
+      { "text": "Favorecer operadores estatales.", "correct": false },
+      { "text": "Limitar inversión extranjera.", "correct": false }
+    ],
+    "sustento": "Artículo 28 constitucional.",
+    "categoria": "Sistema Político"
+  },
+  {
+    "id": 316,
+    "text": "¿Qué mecanismo existe para la remoción de los Comisionados?",
+    "options": [
+      { "text": "Decisión presidencial.", "correct": false },
+      { "text": "Mayoría simple de Diputados.", "correct": false },
+      { "text": "Dos terceras partes del Senado por falta grave.", "correct": true },
+      { "text": "Decisión unánime de Comisionados.", "correct": false }
+    ],
+    "sustento": "Artículo 28 constitucional.",
+    "categoria": "Sistema Político"
+  },
+  {
+    "id": 317,
+    "text": "¿Quiénes participan en el Comité de Evaluación para designación de Comisionados?",
+    "options": [
+      { "text": "Secretarios de Estado.", "correct": false },
+      { "text": "Titulares del Banco de México, INEGI y otro órgano constitucional.", "correct": true },
+      { "text": "Partidos políticos.", "correct": false },
+      { "text": "Ministros de la SCJN.", "correct": false }
+    ],
+    "sustento": "Artículo 28 constitucional.",
+    "categoria": "Sistema Político"
+  },
+  {
+    "id": 318,
+    "text": "¿Cuál es el objetivo principal de la prohibición de condonaciones y exenciones fiscales (reforma 2020)?",
+    "options": [
+      { "text": "Promover inversión extranjera.", "correct": false },
+      { "text": "Evitar privilegios fiscales y fomentar equidad contributiva.", "correct": true },
+      { "text": "Reducir carga fiscal general.", "correct": false },
+      { "text": "Incrementar burocracia.", "correct": false }
+    ],
+    "sustento": "Artículo 28 constitucional reformado en 2020.",
+    "categoria": "Sistema Político"
+  },
+    {
+        "id": 319,
+        "text": "Lee el siguiente texto: 'La fotosíntesis es el proceso metabólico por el cual las plantas verdes convierten la luz solar en energía química, liberando oxígeno como subproducto. Sin este proceso, la vida en la Tierra tal como la conocemos no sería posible.' ¿Cuál es la idea principal del texto?",
+        "options": [
+            { "text": "La energía química se produce a partir de compuestos orgánicos.", "correct": false },
+            { "text": "La fotosíntesis es un proceso vital mediante el cual las plantas generan energía y oxígeno.", "correct": true },
+            { "text": "La vida en la Tierra depende exclusivamente del oxígeno.", "correct": false },
+            { "text": "Las plantas verdes necesitan luz solar para crecer.", "correct": false }
+        ],
+        "sustento": "Sintetiza de manera precisa el proceso descrito y su relevancia fundamental para la vida en la Tierra.",
+        "categoria": "Lenguaje y Comunicación"
+    },
+    {
+        "id": 320,
+        "text": "Lee el siguiente fragmento: 'El uso excesivo del automóvil particular en las grandes urbes ha desencadenado crisis ambientales severas. Es imperativo que los gobiernos inviertan fuertemente en sistemas de transporte público masivo y ecológico para mitigar este impacto.' ¿Cuál es la intención comunicativa del autor?",
+        "options": [
+            { "text": "Informar sobre las estadísticas del uso del automóvil.", "correct": false },
+            { "text": "Describir los tipos de transporte público ecológico disponibles.", "correct": false },
+            { "text": "Persuadir sobre la necesidad de invertir en transporte público sustentable.", "correct": true },
+            { "text": "Explicar las causas de la crisis ambiental en las ciudades.", "correct": false }
+        ],
+        "sustento": "El uso de frases como 'es imperativo' demuestra la intención de convencer sobre una acción específica.",
+        "categoria": "Lenguaje y Comunicación"
+    },
+    {
+        "id": 321,
+        "text": "En la frase: 'El político ofreció un discurso tan prolijo que gran parte de la audiencia comenzó a distraerse antes de la mitad', ¿cuál es el significado de la palabra resaltada según el contexto?",
+        "options": [
+            { "text": "Incomprensible", "correct": false },
+            { "text": "Breve", "correct": false },
+            { "text": "Extenso y detallado", "correct": true },
+            { "text": "Emocionante", "correct": false }
+        ],
+        "sustento": "La distracción del público indica que el discurso fue demasiado largo y con exceso de detalles.",
+        "categoria": "Lenguaje y Comunicación"
+    },
+    {
+        "id": 322,
+        "text": "Lee la siguiente premisa: 'Si todos los mamíferos tienen pelo, y el delfín es un mamífero, entonces...' ¿Qué conclusión lógica se infiere?",
+        "options": [
+            { "text": "El delfín es un pez.", "correct": false },
+            { "text": "No todos los mamíferos tienen pelo.", "correct": false },
+            { "text": "El delfín tiene pelo.", "correct": true },
+            { "text": "El delfín vive en el agua.", "correct": false }
+        ],
+        "sustento": "Sigue la estructura de un silogismo lógico clásico: si A implica B, y C pertenece a A, entonces C implica B.",
+        "categoria": "Lenguaje y Comunicación"
+    },
+    {
+        "id": 323,
+        "text": "Dos párrafos de un texto dicen lo siguiente: 1. 'El consumo regular de azúcar refinada está vinculado al desarrollo de diabetes tipo 2.' 2. 'Los sistemas de salud pública han incrementado sus campañas para promover dietas bajas en azúcares.' ¿Qué relación existe entre el párrafo 1 y el párrafo 2?",
+        "options": [
+            { "text": "Comparación - Contraste", "correct": false },
+            { "text": "Causa - Efecto", "correct": false },
+            { "text": "Concepto - Ejemplo", "correct": false },
+            { "text": "Problema - Solución", "correct": true }
+        ],
+        "sustento": "El primer párrafo plantea una problemática de salud, y el segundo presenta la medida implementada para contrarrestarla.",
+        "categoria": "Lenguaje y Comunicación"
+    },
+    {
+        "id": 324,
+        "text": "¿Cuál de las siguientes afirmaciones extraídas de un artículo representa una opinión y no un hecho?",
+        "options": [
+            { "text": "La Revolución Mexicana inició en el año 1910.", "correct": false },
+            { "text": "El cine clásico es mucho más enriquecedor que las películas modernas.", "correct": true },
+            { "text": "El agua hierve a 100 grados Celsius a nivel del mar.", "correct": false },
+            { "text": "La Tierra orbita alrededor del Sol.", "correct": false }
+        ],
+        "sustento": "El uso del juicio de valor 'mucho más enriquecedor' demuestra una perspectiva subjetiva.",
+        "categoria": "Lenguaje y Comunicación"
+    },
+    {
+        "id": 325,
+        "text": "Lee el siguiente fragmento: 'La inteligencia artificial (IA) ha optimizado procesos industriales; ______, su implementación sin regulación plantea serios dilemas éticos.' ¿Qué conector lógico completa correctamente la oración?",
+        "options": [
+            { "text": "además", "correct": false },
+            { "text": "por lo tanto", "correct": false },
+            { "text": "es decir", "correct": false },
+            { "text": "sin embargo", "correct": true }
+        ],
+        "sustento": "Establece correctamente la oposición o contraste entre la ventaja técnica y el riesgo ético.",
+        "categoria": "Lenguaje y Comunicación"
+    },
+    {
+        "id": 326,
+        "text": "Identifica el error de concordancia en la siguiente oración: 'La mayoría de las personas que asistieron al evento se mostró satisfechos con los resultados obtenidos.'",
+        "options": [
+            { "text": "obtenidos", "correct": false },
+            { "text": "mostró", "correct": false },
+            { "text": "satisfechos", "correct": true },
+            { "text": "asistieron", "correct": false }
+        ],
+        "sustento": "Si el verbo 'mostró' está en singular (concordando con 'mayoría'), el adjetivo también debe ir en singular: 'satisfecha'. El error está en 'satisfechos'.",
+        "categoria": "Lenguaje y Comunicación"
+    },
+    {
+        "id": 327,
+        "text": "¿Cuántos alumnos prefieren exclusivamente baloncesto si 45 prefieren baloncesto, 35 prefieren fútbol y 20 prefieren ambos?",
+        "options": [
+            { "text": "15", "correct": false },
+            { "text": "25", "correct": true },
+            { "text": "30", "correct": false },
+            { "text": "45", "correct": false }
+        ],
+        "sustento": "Se obtiene restando los que prefieren ambos deportes del total de los que prefieren baloncesto (45 − 20 = 25).",
+        "categoria": "Matemáticas"
+    },
+    {
+        "id": 328,
+        "text": "¿Cuál es la cardinalidad del conjunto A = {x ∈ ℤ ∣ −2 < x < 3}?",
+        "options": [
+            { "text": "3", "correct": false },
+            { "text": "6", "correct": false },
+            { "text": "4", "correct": true },
+            { "text": "5", "correct": false }
+        ],
+        "sustento": "Los elementos enteros que cumplen la condición son {−1, 0, 1, 2}. Al contarlos, son 4 elementos.",
+        "categoria": "Matemáticas"
+    },
+    {
+        "id": 329,
+        "text": "Si definimos el conjunto diferencia A − B, ¿qué características deben tener los elementos de este nuevo conjunto?",
+        "options": [
+            { "text": "Pertenecer a ambos conjuntos A y B simultáneamente.", "correct": false },
+            { "text": "Pertenecer al universo, sin importar a qué conjunto estén integrados.", "correct": false },
+            { "text": "Pertenecer al conjunto B, pero no al conjunto A.", "correct": false },
+            { "text": "Pertenecer al conjunto A y, al mismo tiempo, no pertenecer al conjunto B.", "correct": true }
+        ],
+        "sustento": "Define teóricamente el concepto de diferencia, es decir, retirar de un conjunto inicial todo lo que comparte con un segundo.",
+        "categoria": "Matemáticas"
+    },
+    {
+        "id": 330,
+        "text": "Resuelve la siguiente operación respetando la jerarquía aritmética: 8 + 4 × 3 − 10 ÷ 2",
+        "options": [
+            { "text": "13", "correct": false },
+            { "text": "31", "correct": false },
+            { "text": "7", "correct": false },
+            { "text": "15", "correct": true }
+        ],
+        "sustento": "Primero multiplicaciones y divisiones: 4 × 3 = 12, 10 ÷ 2 = 5. Luego suma y resta: 8 + 12 − 5 = 15.",
+        "categoria": "Matemáticas"
+    },
+    {
+        "id": 331,
+        "text": "Calcula el resultado de la siguiente suma de fracciones simplificándolo a su mínima expresión: ¼ + 5/6",
+        "options": [
+            { "text": "13/12", "correct": true },
+            { "text": "6/24", "correct": false },
+            { "text": "11/12", "correct": false },
+            { "text": "6/10", "correct": false }
+        ],
+        "sustento": "El Mínimo Común Múltiplo es 12. Se transforma a 3/12 + 10/12 = 13/12.",
+        "categoria": "Matemáticas"
+    },
+    {
+        "id": 332,
+        "text": "Una receta de pan requiere ¾ de taza de azúcar para preparar 8 porciones. Si deseas preparar 24 porciones, ¿cuántas tazas de azúcar necesitas?",
+        "options": [
+            { "text": "9/4 tazas", "correct": true },
+            { "text": "6/4 tazas", "correct": false },
+            { "text": "3/12 tazas", "correct": false },
+            { "text": "3 tazas", "correct": false }
+        ],
+        "sustento": "Dado que 24 es el triple de 8, multiplicas la cantidad de azúcar por 3: 3 × ¾ = 9/4 tazas.",
+        "categoria": "Matemáticas"
+    },
+    {
+        "id": 333,
+        "text": "Un automóvil viaja a una velocidad constante y recorre 180 km en 2 horas. Si mantiene la misma velocidad, ¿qué distancia recorrerá en 5 horas?",
+        "options": [
+            { "text": "360 km", "correct": false },
+            { "text": "450 km", "correct": true },
+            { "text": "400 km", "correct": false },
+            { "text": "500 km", "correct": false }
+        ],
+        "sustento": "Usando regla de tres directa: si en 2 h son 180 km, en 1 h son 90 km. En 5 h será 90 × 5 = 450 km.",
+        "categoria": "Matemáticas"
+    },
+    {
+        "id": 334,
+        "text": "Para pintar una casa, 4 pintores tardan 6 días en terminar el trabajo. Si se contrata a 2 pintores adicionales (siendo un total de 6 pintores con el mismo ritmo), ¿cuántos días tardarán en realizar el mismo trabajo?",
+        "options": [
+            { "text": "9 días", "correct": false },
+            { "text": "3 días", "correct": false },
+            { "text": "8 días", "correct": false },
+            { "text": "4 días", "correct": true }
+        ],
+        "sustento": "Es una regla de tres inversa: (4 × 6) ÷ 6 = 24 ÷ 6 = 4 días.",
+        "categoria": "Matemáticas"
+    },
+    {
+        "id": 335,
+        "text": "En una tienda departamental, un artículo cuesta $1,200 pesos, pero tiene un descuento del 15%. ¿Cuánto se debe pagar finalmente por el artículo?",
+        "options": [
+            { "text": "$180", "correct": false },
+            { "text": "$1,020", "correct": true },
+            { "text": "$1,100", "correct": false },
+            { "text": "$1,380", "correct": false }
+        ],
+        "sustento": "El descuento es de $180 (1200 × 0.15). Al restarlo al precio original (1200 − 180), el total a pagar es $1,020.",
+        "categoria": "Matemáticas"
+    },
+    {
+        "id": 336,
+        "text": "Tres luces intermitentes se encienden al mismo tiempo. La luz roja parpadea cada 10 segundos, la verde cada 15 segundos y la azul cada 20 segundos. ¿Cuántos segundos pasarán para que las tres luces vuelvan a encenderse al mismo tiempo?",
+        "options": [
+            { "text": "120 segundos", "correct": false },
+            { "text": "60 segundos", "correct": true },
+            { "text": "3000 segundos", "correct": false },
+            { "text": "45 segundos", "correct": false }
+        ],
+        "sustento": "Se debe calcular el Mínimo Común Múltiplo (MCM) de 10, 15 y 20, que es 60 segundos.",
+        "categoria": "Matemáticas"
+    },
+    {
+        "id": 337,
+        "text": "Un carpintero tiene dos tablas de madera, una de 24 metros y otra de 36 metros. Quiere cortarlas en pedazos iguales del mayor tamaño posible sin desperdiciar madera. ¿De cuántos metros debe ser cada pedazo?",
+        "options": [
+            { "text": "8 metros", "correct": false },
+            { "text": "24 metros", "correct": false },
+            { "text": "12 metros", "correct": true },
+            { "text": "6 metros", "correct": false }
+        ],
+        "sustento": "Se calcula el Máximo Común Divisor (MCD) de 24 y 36, el cual es 12, garantizando cortes máximos sin sobrantes.",
+        "categoria": "Matemáticas"
+    },
+    {
+        "id": 338,
+        "text": "Resuelve la siguiente operación con números enteros y signos de agrupación: 5 − [3 − (−2 + 4)]",
+        "options": [
+            { "text": "8", "correct": false },
+            { "text": "6", "correct": false },
+            { "text": "4", "correct": true },
+            { "text": "0", "correct": false }
+        ],
+        "sustento": "Paso 1: Paréntesis (−2 + 4) = 2. Paso 2: Corchetes [3 − 2] = 1. Paso 3: 5 − 1 = 4.",
+        "categoria": "Matemáticas"
+    },
+    {
+        "id": 339,
+        "text": "El precio de un servicio de internet incrementó en un 20%. Si el nuevo precio es de $600, ¿cuál era el precio original antes del incremento?",
+        "options": [
+            { "text": "$580", "correct": false },
+            { "text": "$500", "correct": true },
+            { "text": "$720", "correct": false },
+            { "text": "$480", "correct": false }
+        ],
+        "sustento": "Se calcula con la regla de tres: Si 120% es igual a $600, entonces el 100% es (600 × 100) ÷ 120 = $500.",
         "categoria": "Matemáticas"
     }
 ]
