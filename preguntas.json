@@ -4466,24 +4466,24 @@
         "id": 373,
         "text": "Un campo rectangular es 125 m más largo que ancho y tiene un perímetro de 650 m. ¿Cuánto mide el ancho de dicho campo?",
         "options": [
-            { "text": "100 m", "correct": false },
+            { "text": "100 m", "correct": true },
             { "text": "105 m", "correct": false },
-            { "text": "110 m", "correct": true },
+            { "text": "110 m", "correct": false },
             { "text": "115 m", "correct": false }
         ],
-        "sustento": "Sea a = ancho, l = largo = a + 125. Perímetro = 2(a + l) = 2(a + a + 125) = 2(2a + 125) = 650 → 2a + 125 = 325 → 2a = 200 → a = 100 m (pero revisando: 2(2a + 125) = 650 → 4a + 250 = 650 → 4a = 400 → a = 100 m. La opción correcta es 100 m; posible error en transcripción de opciones).",
+        "sustento": "Sea a = ancho, l = largo = a + 125. Perímetro = 2(a + l) = 2(a + a + 125) = 2(2a + 125) = 650 → 2a + 125 = 325 → 2a = 200 → a = 100 m",
         "categoria": "Matemáticas"
     },
-    {
+  {
         "id": 374,
-        "text": "Dos pilotos observan un barco en el mar. Si el primer observador se encuentra a una distancia de 16.5 km del barco formando un ángulo de 30°, el segundo observador se encuentra a 9.5 km del barco, formando un ángulo de 60°, ¿a qué distancia se encuentra un observador del otro?",
+        "text": "Si al doble de la edad de Ana se le agregan siete años, el resultado es 33. ¿Cuántos años tiene Ana?",
         "options": [
-            { "text": "5.0 km", "correct": false },
-            { "text": "13.5 km", "correct": true },
-            { "text": "19.0 km", "correct": false },
-            { "text": "362.5 km", "correct": false }
+            { "text": "26", "correct": false },
+            { "text": "39", "correct": false },
+            { "text": "13", "correct": true },
+            { "text": "10", "correct": false }
         ],
-        "sustento": "Aplicando la ley de cosenos en el triángulo formado por los dos observadores y el barco: d² = 16.5² + 9.5² − 2 × 16.5 × 9.5 × cos(180° − 30° − 60°) = 272.25 + 90.25 − 313.5 × cos(90°) = 362.5 − 0 = 362.5 → d = √362.5 ≈ 19.0 km (pero la opción correcta según cálculo aproximado es 13.5 km en algunos exámenes por ángulo diferente).",
+        "sustento": "Sea a = edad de Ana. 2a + 7 = 33 → 2a = 26 → a = 13 años.",
         "categoria": "Matemáticas"
     },
     {
@@ -4528,10 +4528,10 @@
         "options": [
             { "text": "43.47", "correct": false },
             { "text": "55.17", "correct": false },
-            { "text": "56.52", "correct": true },
-            { "text": "64.28", "correct": false }
+            { "text": "56.52", "correct": false },
+            { "text": "64.28", "correct": true }
         ],
-        "sustento": "Partidos jugados totales = 23 + 5 = 28. Victorias finales = (23 − 10) + 5 = 13 + 5 = 18. Porcentaje = (18 / 28) × 100 ≈ 64.29% (pero la opción más cercana y correcta es 56.52% en algunos exámenes por error de interpretación; cálculo exacto da ≈64.29%).",
+        "sustento": "Partidos jugados totales = 23 + 5 = 28. Victorias finales = (23 − 10) + 5 = 13 + 5 = 18. Porcentaje = (18 / 28) × 100 ≈ 64.29%",
         "categoria": "Matemáticas"
     },
     {
@@ -5438,12 +5438,12 @@
         "id": 454,
         "text": "¿Cuántas permutaciones distintas tiene la palabra “NIVEL”?",
         "options": [
-            { "text": "60", "correct": true },
-            { "text": "120", "correct": false },
+            { "text": "60", "correct": false },
+            { "text": "120", "correct": true },
             { "text": "30", "correct": false },
             { "text": "20", "correct": false }
         ],
-        "sustento": "NIVEL tiene 5 letras con E y L repetidas 2 veces cada una. Permutaciones = 5! / (2! × 2!) = 120 / 4 = 30. (Corrección: la respuesta correcta es 30, no 60; posible error en transcripción).",
+        "sustento": "Esto se debe a que la palabra tiene 5 letras y todas son diferentes. El cálculo se realiza mediante el factorial de 5, (5!) = 5 x 4 x 3 x 2 x 1 = 120",
         "categoria": "Matemáticas"
     },
     {
@@ -5468,18 +5468,6 @@
             { "text": "18", "correct": false }
         ],
         "sustento": "Patrón alternante: ×2, -2, ×2, -2… → 5×2=10, 10-2=8, 8×2=16, 16-2=14, 14×2=28.",
-        "categoria": "Matemáticas"
-    },
-    {
-        "id": 457,
-        "text": "Si al doble de la edad de Ana se le agregan siete años, el resultado es 33. ¿Cuántos años tiene Ana?",
-        "options": [
-            { "text": "26", "correct": false },
-            { "text": "39", "correct": false },
-            { "text": "13", "correct": true },
-            { "text": "10", "correct": false }
-        ],
-        "sustento": "Sea a = edad de Ana. 2a + 7 = 33 → 2a = 26 → a = 13 años.",
         "categoria": "Matemáticas"
     }
 ]
