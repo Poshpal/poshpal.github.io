@@ -3555,7 +3555,7 @@
     "text": "¿Cómo está integrada la Suprema Corte de Justicia de la Nación?",
     "options": [
       { "text": "Por diez Ministros y un Presidente.", "correct": false },
-      { "text": "Por once Ministros, uno de los cuales es su Presidente.", "correct": true },
+      { "text": "Por nueve Ministros, uno de los cuales es su Presidente.", "correct": true },
       { "text": "Por siete Magistrados.", "correct": false },
       { "text": "Por cinco Consejeros.", "correct": false }
     ],
