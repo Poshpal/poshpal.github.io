@@ -1256,7 +1256,7 @@
                 "correct": false
             }
         ],
-        "sustento": "LGIPE y Reglamento de Elecciones. Regulan las modalidades del voto desde el extranjero.",
+        "sustento": "LGIPE, Artículo 329, numeral 2. Establece las tres modalidades del voto en el extranjero: vía postal, entrega personal en módulos en embajadas o consulados, y vía electrónica por internet.",
         "categoria": "Sistema Electoral"
     },
     {
@@ -2116,7 +2116,7 @@
                 "correct": false
             }
         ],
-        "sustento": "Reglamento de Elecciones, Artículo 27. Define la adenda como instrumento de precisión o modificación.",
+        "sustento": "Reglamento de Elecciones, Artículo 33. Faculta la suscripción de adendas como instrumentos de precisión o modificación de los convenios generales de coordinación.",
         "categoria": "Sistema Electoral"
     },
     {
@@ -2916,7 +2916,7 @@
                 "correct": true
             }
         ],
-        "sustento": "Reglamento de Elecciones, Artículo 100 y ss. Define el voto electrónico como modalidad base para el extranjero.",
+        "sustento": "LGIPE, Artículo 329, numerales 2 y 3. Establece las modalidades del voto de mexicanos en el extranjero; el voto electrónico se sujeta a los lineamientos que emita el INE para garantizar certeza y seguridad. El Reglamento de Elecciones, Artículo 100, regula los aspectos operativos de su implementación.",
         "categoria": "Sistema Electoral"
     },
     {
@@ -2936,7 +2936,7 @@
                 "correct": false
             }
         ],
-        "sustento": "Reglamento de Elecciones, Artículo 148. Centraliza la validación de materiales de capacitación para observación.",
+        "sustento": "Reglamento de Elecciones, Artículo 196. Establece que los materiales de capacitación que los OPL utilicen para la formación de observadores electorales deberán ser revisados y validados por la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica (DECEyEC) del Instituto.",
         "categoria": "Sistema Electoral"
     },
     {
@@ -3016,7 +3016,7 @@
                 "correct": false
             }
         ],
-        "sustento": "LGIPE, Artículo 237 y Reglamento de Elecciones, Artículo 149. El plazo de registro de candidaturas tiene como límite el inicio de la impresión de boletas; si hay impugnación pendiente, se posterga la producción.",
+        "sustento": "LGIPE, Artículo 237 y Reglamento de Elecciones, Artículo 164. Regula la relación entre el registro de candidaturas y el inicio de producción de boletas electorales; si existe impugnación pendiente que pudiera modificar el registro, se posterga el inicio de la impresión hasta en tanto se resuelva.",
         "categoria": "Sistema Electoral"
     },
     {
@@ -3844,7 +3844,7 @@
         "text": "En la sesión de cómputo, se abre la bodega electoral. ¿Quién debe constatar que los sellos no han sido violados?",
         "options": [
             {
-                "text": "Únicamente el personal de limpieza.",
+                "text": "Únicamente los integrantes de la Junta Distrital.",
                 "correct": false
             },
             {
@@ -3968,7 +3968,7 @@
                 "correct": false
             },
             {
-                "text": "Si son objeto de estudios del INE o forman parte de una investigación de la FEPADE.",
+                "text": "Si son objeto de estudios del INE o forman parte de una investigación de la FISEL.",
                 "correct": true
             },
             {
@@ -4096,7 +4096,7 @@
                 "correct": false
             }
         ],
-        "sustento": "Reglamento de Elecciones, Artículo 206. Regula el derecho de los representantes a firmar bajo protesta.",
+        "sustento": "Reglamento de Elecciones, Artículo 426. Regula el derecho de los representantes a firmar bajo protesta.",
         "categoria": "Sistema Electoral"
     },
     {
@@ -4116,7 +4116,7 @@
                 "correct": false
             }
         ],
-        "sustento": "Reglamento de Elecciones, Artículo 337. Define la estructura de coordinación para el voto en el extranjero.",
+        "sustento": "Reglamento de Elecciones, Artículo 109, numeral 2. Establece la estructura del grupo de trabajo para el voto de mexicanos en el extranjero, designando una Secretaría Técnica a cargo de la DERFE y la UTVOPL para coordinar la interlocución con los OPL.",
         "categoria": "Sistema Electoral"
     },
     {
@@ -4136,7 +4136,7 @@
                 "correct": false
             }
         ],
-        "sustento": "Reglamento de Elecciones, Artículo 369. Establece el rigor estadístico para los conteos rápidos institucionales.",
+        "sustento": "Reglamento de Elecciones, Artículo 373. Establece el rigor estadístico para los conteos rápidos institucionales.",
         "categoria": "Sistema Electoral"
     },
     {
@@ -4156,7 +4156,7 @@
                 "correct": false
             }
         ],
-        "sustento": "Reglamento de Elecciones, Artículo 20, numeral 1. Establece los requisitos para ser consejero de OPL, permitiendo candidatos con condenas por delito de carácter no intencional o imprudencial.",
+        "sustento": "Reglamento de Elecciones, Artículo 21, numeral 1. Establece los requisitos para ser consejero de OPL, permitiendo candidatos con condenas por delito de carácter no intencional o imprudencial.",
         "categoria": "Sistema Electoral"
     },
     {
@@ -9276,7 +9276,7 @@
                 "correct": false
             }
         ],
-        "sustento": "Artículo 82, fracción VIII.",
+        "sustento": "CPEUM, Artículo 82, fracción VIII (Reforma DOF 01-04-2025). Establece restricciones por parentesco y afinidad para evitar el nepotismo electoral [4, 5].",
         "categoria": "Sistema Político"
     },
     {
@@ -9356,7 +9356,7 @@
                 "correct": false
             }
         ],
-        "sustento": "Artículo 115, fracción I, párrafo segundo.",
+        "sustento": "CPEUM, Artículo 115, fracción I, párrafo segundo (Reforma DOF 01-04-2025). Prohíbe la postulación de parientes consanguíneos en línea recta o colateral para el periodo inmediato [4, 5].",
         "categoria": "Sistema Político"
     },
     {
@@ -12796,7 +12796,7 @@
                 "correct": false
             }
         ],
-        "sustento": "Artículo 2o., párrafo noveno de la CPEUM. Establece que la jurisdicción indígena se ejercerá por autoridades comunitarias según sus sistemas normativos [1].",
+        "sustento": "CPEUM, Artículo 2o., Apartado A, fracción II (Reforma DOF 30-09-2024). Reconoce la jurisdicción indígena bajo sus propios sistemas normativos.",
         "categoria": "Sistema Político"
     },
     {
@@ -13056,7 +13056,7 @@
                 "correct": false
             }
         ],
-        "sustento": "Artículo 371 de la LGIPE. Regula la dispersión territorial para candidaturas independientes [14].",
+        "sustento": "LGIPE, Artículo 373. Establece la regla de dispersión territorial para el registro de candidatos independientes al Senado: deben obtener firmas del 1% de la lista nominal en al menos la mitad de los distritos de la entidad.",
         "categoria": "Sistema Político"
     },
     {
@@ -13176,7 +13176,7 @@
                 "correct": false
             }
         ],
-        "sustento": "CPEUM, Transitorio del Decreto de Reforma 2024. Regula la votación múltiple para magistraturas y juzgados [22].",
+        "sustento": "CPEUM, Transitorio del Decreto de Reforma DOF 15-09-2024. Regula la votación múltiple para magistraturas y juzgados [22].",
         "categoria": "Sistema Político"
     },
     {
@@ -13436,7 +13436,7 @@
                 "correct": false
             }
         ],
-        "sustento": "Reglamento de Elecciones, Artículo 148. Centraliza la validación de materiales de capacitación para observación [43].",
+        "sustento": "Reglamento de Elecciones, Artículo 196. Centraliza en la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica (DECEyEC) del INE la validación de los materiales didácticos que los OPL utilicen para capacitar a observadores electorales.",
         "categoria": "Sistema Electoral"
     },
     {
@@ -13536,7 +13536,7 @@
                 "correct": false
             }
         ],
-        "sustento": "Reglamento de Elecciones, Artículo 215. Garantiza la continuidad de las reglas de paridad del proceso ordinario [34].",
+        "sustento": "Reglamento de Elecciones, Artículo 283, numeral 3. Garantiza la continuidad de las reglas de paridad de género del proceso electoral ordinario en los registros de candidaturas para elecciones extraordinarias; las fórmulas deben integrarse con el mismo género que contendió en el proceso ordinario.",
         "categoria": "Sistema Electoral"
     },
     {
