@@ -3444,7 +3444,7 @@
         "text": "¿Con cuánta anticipación al inicio de las precampañas debe aprobarse la metodología del monitoreo de noticias?",
         "options": [
             {
-                "text": "10 días.",
+                "text": "10 días previos a su inicio.",
                 "correct": false
             },
             {
@@ -4184,7 +4184,7 @@
         "text": "El PREP local debe iniciar su publicación entre qué horario local?",
         "options": [
             {
-                "text": "A las 20:00 horas obligatoriamente.",
+                "text": "A las 20:00 horas del día de la Jornada Electoral, obligatoriamente.",
                 "correct": false
             },
             {
@@ -4192,7 +4192,7 @@
                 "correct": true
             },
             {
-                "text": "Al mediodía del día siguiente.",
+                "text": "Al mediodía del día siguiente a la Jornada Electoral.",
                 "correct": false
             }
         ],
