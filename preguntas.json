@@ -1488,7 +1488,7 @@
                 "correct": false
             },
             {
-                "text": "Turnar de forma inmediata el expediente a la Sala Especializada del Tribunal Electoral.",
+                "text": "Turnar de forma inmediata el expediente a Sala Superior del Tribunal Electoral.",
                 "correct": true
             },
             {
@@ -1508,7 +1508,7 @@
                 "correct": false
             },
             {
-                "text": "La Sala Especializada del Tribunal Electoral del Poder Judicial de la Federación.",
+                "text": "La Sala Superior del Tribunal Electoral del Poder Judicial de la Federación.",
                 "correct": true
             },
             {
@@ -12941,7 +12941,7 @@
     },
     {
         "id": 648,
-        "text": "En el sistema de justicia electoral, ¿cuál es el plazo para que la Sala Especializada resuelva un PES tras recibir el expediente?",
+        "text": "En el sistema de justicia electoral, ¿cuál es el plazo para que la Sala Superior resuelva un PES tras recibir el expediente?",
         "options": [
             {
                 "text": "Treinta días naturales.",
