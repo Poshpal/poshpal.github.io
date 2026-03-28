@@ -7200,27 +7200,27 @@
         "categoria": "Sistema Político"
     },
     {
-        "id": 301,
-        "text": "¿Quién propone a los Ministros de la Suprema Corte de Justicia de la Nación y qué órgano los aprueba?",
+         "id": 301,
+        "text": "¿Cómo se eligen actualmente a las personas Ministras de la Suprema Corte de Justicia de la Nación tras la reforma constitucional de 2024?",
         "options": [
             {
-                "text": "El Congreso los propone y Diputados los aprueba.",
-                "correct": false
-            },
-            {
-                "text": "El Presidente los propone y el Senado los aprueba.",
+                "text": "Mediante el voto directo y secreto de la ciudadanía a nivel nacional.",
                 "correct": true
             },
             {
-                "text": "El Consejo de la Judicatura los propone.",
+                "text": "A propuesta del Ejecutivo con ratificación del Senado.",
                 "correct": false
             },
             {
-                "text": "La SCJN se autopropone.",
+                "text": "Por designación directa del Consejo de la Judicatura.",
+                "correct": false
+            },
+            {
+                "text": "Por insaculación entre los magistrados de circuito.",
                 "correct": false
             }
         ],
-        "sustento": "Artículo 96 constitucional (procedimiento previo a la Reforma Judicial 2024). IMPORTANTE: Con la reforma de septiembre de 2024, los Ministros de la SCJN son elegidos por voto popular directo de la ciudadanía, no por propuesta del Ejecutivo con ratificación del Senado. Verificar si el examen evalúa el nuevo procedimiento electoral judicial.",
+        "sustento": "Artículo 96 de la CPEUM. Establece que la elección de Ministros será por sufragio universal, libre, secreto y directo.",
         "categoria": "Sistema Político"
     },
     {
@@ -12121,7 +12121,7 @@
     },
     {
         "id": 530,
-        "text": "Determina el MCD de 168, 252 y 420.",
+        "text": "Determina el Máximo Común Divisor (MCD) de 168, 252 y 420.",
         "options": [
         {
             "text": "12",
