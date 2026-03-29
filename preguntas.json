@@ -6801,7 +6801,7 @@
     },
     {
         "id": 341,
-        "text": "De acuerdo con el contexto, ¿cuál es un sinónimo del texto en cursivas? Perdí el hilo de la conversación.",
+        "text": "De acuerdo con el contexto, ¿cuál es un sinónimo del texto entre comillas? Perdí el \"hilo\" de la conversación.",
         "options": [
             {
                 "text": "La raíz",
@@ -13592,13 +13592,13 @@
   },
   {
         "id": 681,
-        "text": "En una charla sobre teoría política, un estudiante argumenta que la democracia moderna es idéntica a la de la antigua Grecia. El profesor corrige señalando que la democracia actual es fundamentalmente representativa. Según las fuentes, ¿cuál es la característica esencial de esta forma de gobierno?",
+        "text": "En una charla sobre teoría política, un estudiante argumenta que la democracia moderna es idéntica a la de la antigua Grecia. El profesor corrige señalando que la democracia actual es fundamentalmente representativa. ¿Cuál es la característica esencial de esta forma de gobierno?",
         "options": [
         { "text": "La toma de decisiones directa por todos los ciudadanos en asambleas.", "correct": false },
         { "text": "Un sistema donde los ciudadanos gobiernan indirectamente a través de representantes electos.", "correct": true },
         { "text": "Un modelo donde el Poder Ejecutivo no tiene límites temporales.", "correct": false }
         ],
-        "sustento": "Unidad 1, sección 1.1. Define la democracia representativa como un sistema donde se gobierna a través de representantes [3, 4].",
+        "sustento": "Se define la democracia representativa como un sistema donde se gobierna a través de representantes [3, 4].",
         "categoria": "Sistema Político"
   },
   {
@@ -13609,7 +13609,7 @@
         { "text": "División de Poderes (Ejecutivo, Legislativo y Judicial).", "correct": true },
         { "text": "Unicameralismo ejecutivo.", "correct": false }
         ],
-        "sustento": "Unidad 1, sección 1.1. Explica que la división de poderes limita competencias y establece contrapesos [5, 6].",
+        "sustento": "La división de poderes limita competencias y establece contrapesos [5, 6].",
         "categoria": "Sistema Político"
   },
   {
@@ -13620,7 +13620,7 @@
         { "text": "Reforma de 1977.", "correct": true },
         { "text": "Reforma de 2014.", "correct": false }
         ],
-        "sustento": "Unidad 1, sección 1.3. La reforma de 1977 introdujo los primeros 100 diputados de RP para facilitar el acceso de partidos pequeños [7].",
+        "sustento": "La reforma de 1977 introdujo los primeros 100 diputados de RP para facilitar el acceso de partidos pequeños [7].",
         "categoria": "Sistema Electoral"
   },
   {
@@ -13631,7 +13631,7 @@
         { "text": "Elección directa por parte de la ciudadanía mediante voto popular.", "correct": true },
         { "text": "Nombramiento por el Senado a propuesta del INE.", "correct": false }
         ],
-        "sustento": "Unidad 1, sección 1.3. La reforma de 2024 estableció la elección directa de personas juzgadoras por la ciudadanía [8, 9].",
+        "sustento": "La reforma de 2024 estableció la elección directa de personas juzgadoras por la ciudadanía [8, 9].",
         "categoria": "Sistema Electoral"
   },
   {
@@ -13642,7 +13642,7 @@
       { "text": "Legalidad.", "correct": true },
       { "text": "Máxima Publicidad.", "correct": false }
     ],
-    "sustento": "CPEUM Art. 41 y Unidad 1, sección 1.4. El principio de legalidad garantiza que las autoridades actúen en estricto apego a la ley [10].",
+    "sustento": "CPEUM Art. 41. El principio de legalidad garantiza que las autoridades actúen en estricto apego a la ley [10].",
     "categoria": "Sistema Electoral"
   },
   {
@@ -13653,7 +13653,7 @@
       { "text": "Que combina los principios de Mayoría Relativa y Representación Proporcional.", "correct": true },
       { "text": "Que los partidos políticos no pueden participar en la repartición de escaños.", "correct": false }
     ],
-    "sustento": "CPEUM Art. 52, 54 y Unidad 1, sección 1.4. El sistema mixto busca combinar gobernabilidad y proporcionalidad [11, 12].",
+    "sustento": "CPEUM Art. 52, 54. El sistema mixto busca combinar gobernabilidad y proporcionalidad [11, 12].",
     "categoria": "Sistema Electoral"
   },
   {
@@ -13664,7 +13664,7 @@
       { "text": "0.26%", "correct": true },
       { "text": "3.00%", "correct": false }
     ],
-    "sustento": "LGPP Art. 10.2 y Unidad 2, sección 2.1. Se requiere un número equivalente al 0.26% del padrón electoral federal [13, 14].",
+    "sustento": "LGPP Art. 10.2. Se requiere un número equivalente al 0.26% del padrón electoral federal [13, 14].",
     "categoria": "Sistema Electoral"
   },
   {
@@ -13675,7 +13675,7 @@
       { "text": "21 años cumplidos al día de la elección.", "correct": false },
       { "text": "25 años cumplidos al día de la elección.", "correct": false }
     ],
-    "sustento": "CPEUM Art. 55 y Unidad 2, sección 2.2. Para ser diputado se requieren 18 años cumplidos al día de la elección [15].",
+    "sustento": "CPEUM Art. 55. Para ser diputado se requieren 18 años cumplidos al día de la elección [15].",
     "categoria": "Sistema Político"
   },
   {
@@ -13686,7 +13686,7 @@
       { "text": "2% distribuido en todo el territorio nacional.", "correct": false },
       { "text": "3% de la votación válida emitida.", "correct": false }
     ],
-    "sustento": "LEGIPE Art. 371 y Unidad 2, sección 2.2. Se requiere el 1% de la lista nominal nacional distribuido en 17 entidades [16].",
+    "sustento": "LEGIPE Art. 371. Se requiere el 1% de la lista nominal nacional distribuido en 17 entidades [16].",
     "categoria": "Sistema Electoral"
   },
   {
@@ -13697,7 +13697,7 @@
       { "text": "2.00%", "correct": false },
       { "text": "0.26%", "correct": false }
     ],
-    "sustento": "LOCG Art. 130 y Unidad 2, sección 2.2. La iniciativa ciudadana requiere el 0.13% de la lista nominal de electores [17].",
+    "sustento": "Ley Orgánica del Congreso General de los Estados Unidos Mexicanos Art. 130. La iniciativa ciudadana requiere el 0.13% de la lista nominal de electores [17].",
     "categoria": "Sistema Político"
   },
   {
@@ -13708,7 +13708,7 @@
       { "text": "Más del 40% de los ciudadanos inscritos en la lista nominal.", "correct": true },
       { "text": "Al menos el 2% de la lista nominal.", "correct": false }
     ],
-    "sustento": "CPEUM Art. 35 y Unidad 2, sección 2.2. Los resultados son obligatorios si la participación es mayor al 40% [18, 19].",
+    "sustento": "CPEUM Art. 35. Los resultados son obligatorios si la participación es mayor al 40% [18, 19].",
     "categoria": "Sistema Político"
   },
   {
@@ -13719,7 +13719,7 @@
       { "text": "Una fórmula integrada por mujeres.", "correct": true },
       { "text": "El presidente nacional del partido.", "correct": false }
     ],
-    "sustento": "Unidad 2, sección 2.3. Para garantizar la paridad, la lista de senadurías de RP debe ser encabezada por mujeres [20].",
+    "sustento": "Para garantizar la paridad, la lista de senadurías de RP debe ser encabezada por mujeres [20].",
     "categoria": "Sistema Electoral"
   },
   {
@@ -13730,7 +13730,7 @@
       { "text": "Es obligatoria la postulación exclusiva de candidaturas indígenas en esos distritos.", "correct": true },
       { "text": "La autoadscripción simple es suficiente sin necesidad de vínculo.", "correct": false }
     ],
-    "sustento": "Unidad 2, sección 2.3. En distritos con más del 60% de concentración indígena, la postulación debe ser exclusiva para indígenas [21].",
+    "sustento": "En distritos con más del 60% de concentración indígena, la postulación debe ser exclusiva para indígenas [21].",
     "categoria": "Sistema Electoral"
   },
   {
@@ -13741,7 +13741,7 @@
       { "text": "Con una resolución favorable del TEPJF (JDC) que indique su derecho a votar sin la credencial.", "correct": true },
       { "text": "Si dos vecinos lo identifican bajo protesta de decir verdad.", "correct": false }
     ],
-    "sustento": "Unidad 2, sección 2.4. Solo se puede votar sin credencial con una resolución del TEPJF producto de un JDC [22].",
+    "sustento": "Solo se puede votar sin credencial con una resolución del TEPJF producto de un JDC [22].",
     "categoria": "Sistema Electoral"
   },
   {
@@ -13752,7 +13752,7 @@
       { "text": "Recorrer el orden de los suplentes y, si faltan, designar a electores de la fila.", "correct": true },
       { "text": "Permitir que los representantes de los partidos asuman los cargos.", "correct": false }
     ],
-    "sustento": "LEGIPE Art. 274 y Unidad 2, sección 2.5. Si faltan funcionarios a las 8:15, se usan suplentes o ciudadanos de la fila [23].",
+    "sustento": "LEGIPE Art. 274. Si faltan funcionarios a las 8:15, se usan suplentes o ciudadanos de la fila [23].",
     "categoria": "Sistema Electoral"
   },
   {
@@ -13763,7 +13763,7 @@
       { "text": "Cuenta como un solo voto a favor del candidato de la coalición.", "correct": true },
       { "text": "Se cuenta como un voto para cada uno de los tres partidos por separado.", "correct": false }
     ],
-    "sustento": "LGPP Art. 87 y Unidad 2, sección 2.5. Marcar varios recuadros de una coalición cuenta como un voto para el candidato [24, 25].",
+    "sustento": "LGPP Art. 87. Marcar varios recuadros de una coalición cuenta como un voto para el candidato [24, 25].",
     "categoria": "Sistema Electoral"
   },
   {
@@ -13774,7 +13774,7 @@
       { "text": "11 consejeros (incluido el Consejero Presidente).", "correct": true },
       { "text": "15 consejeros.", "correct": false }
     ],
-    "sustento": "CPEUM Art. 41 y Unidad 3, sección 3.1. El Consejo General se integra por 11 consejeros con voz y voto [26].",
+    "sustento": "CPEUM Art. 41. El Consejo General se integra por 11 consejeros con voz y voto [26].",
     "categoria": "Sistema Político"
   },
   {
@@ -13785,7 +13785,7 @@
       { "text": "Facultad de Asunción (Total).", "correct": true },
       { "text": "Facultad de Delegación.", "correct": false }
     ],
-    "sustento": "CPEUM Art. 41 y Unidad 3, sección 3.1. La asunción permite al INE hacerse cargo de actividades de los OPLE [27, 28].",
+    "sustento": "CPEUM Art. 41. La asunción permite al INE hacerse cargo de actividades de los OPLE [27, 28].",
     "categoria": "Sistema Electoral"
   },
   {
@@ -13796,7 +13796,7 @@
       { "text": "FISEL (Fiscalía Especializada en materia de Delitos Electorales).", "correct": true },
       { "text": "TEPJF.", "correct": false }
     ],
-    "sustento": "Unidad 3, sección 3.5. La FISEL investiga y persigue conductas delictivas en materia electoral [29, 30].",
+    "sustento": "La FISEL investiga y persigue conductas delictivas en materia electoral [29, 30].",
     "categoria": "Sistema Político"
   },
   {
@@ -13807,7 +13807,7 @@
       { "text": "1B, 2A", "correct": true },
       { "text": "Ambas tienen 5 magistraturas.", "correct": false }
     ],
-    "sustento": "Unidad 3, sección 3.3. La Sala Superior tiene 7 integrantes y las Regionales 3 cada una [31].",
+    "sustento": "La Sala Superior tiene 7 integrantes y las Regionales 3 cada una [31].",
     "categoria": "Sistema Electoral"
   },
   {
@@ -13818,7 +13818,7 @@
       { "text": "Pueden ser impugnadas ante el TEPJF para su revisión.", "correct": true },
       { "text": "Solo pueden ser revisadas por la Suprema Corte.", "correct": false }
     ],
-    "sustento": "Unidad 3, sección 3.4. Las sentencias de tribunales locales pueden ser impugnadas ante el TEPJF [32].",
+    "sustento": "Las sentencias de tribunales locales pueden ser impugnadas ante el TEPJF [32].",
     "categoria": "Sistema Electoral"
   },
   {
@@ -13829,7 +13829,7 @@
       { "text": "Control difuso de convencionalidad.", "correct": true },
       { "text": "Control a priori de legalidad.", "correct": false }
     ],
-    "sustento": "Unidad 4, sección 4.2. El control difuso de convencionalidad obliga a los jueces a preferir tratados internacionales sobre normas internas [33, 34].",
+    "sustento": "El control difuso de convencionalidad obliga a los jueces a preferir tratados internacionales sobre normas internas [33, 34].",
     "categoria": "Sistema Político"
   },
   {
@@ -13840,7 +13840,7 @@
       { "text": "2, 1, 3", "correct": false },
       { "text": "3, 2, 1", "correct": false }
     ],
-    "sustento": "Unidad 4, sección 4.2. Radilla (2009), Reforma (Junio 2011), Varios 912 (Julio 2011) [35, 36].",
+    "sustento": "Radilla (2009), Reforma (Junio 2011), Varios 912 (Julio 2011) [35, 36].",
     "categoria": "Sistema Político"
   },
   {
@@ -13851,7 +13851,7 @@
       { "text": "Acción de Inconstitucionalidad.", "correct": true },
       { "text": "Controversia Constitucional.", "correct": false }
     ],
-    "sustento": "CPEUM Art. 105 y Unidad 4, sección 4.3. La acción de inconstitucionalidad es el medio para impugnar leyes electorales ante la SCJN [37, 38].",
+    "sustento": "CPEUM Art. 105. La acción de inconstitucionalidad es el medio para impugnar leyes electorales ante la SCJN [37, 38].",
     "categoria": "Sistema Electoral"
   },
   {
@@ -13862,7 +13862,7 @@
       { "text": "Tribunal Electoral del Poder Judicial de la Federación (TEPJF).", "correct": true },
       { "text": "Instituto Nacional Electoral (INE).", "correct": false }
     ],
-    "sustento": "LGSMIME y Unidad 4, sección 4.4. El JDC es competencia del TEPJF para proteger derechos ciudadanos [39, 40].",
+    "sustento": "LGSMIME. El JDC es competencia del TEPJF para proteger derechos ciudadanos [39, 40].",
     "categoria": "Sistema Electoral"
   },
   {
@@ -13873,7 +13873,7 @@
       { "text": "Dentro de los cuatro días contados a partir del conocimiento del acto.", "correct": true },
       { "text": "En un plazo de 15 días hábiles.", "correct": false }
     ],
-    "sustento": "LGSMIME Art. 8 y Unidad 5, sección 5.2. El plazo general para impugnar es de cuatro días [41].",
+    "sustento": "LGSMIME Art. 8. El plazo general para impugnar es de cuatro días [41].",
     "categoria": "Sistema Electoral"
   },
   {
@@ -13884,7 +13884,7 @@
       { "text": "Todos los días y horas son hábiles.", "correct": true },
       { "text": "Los fines de semana se suspenden los plazos por ley.", "correct": false }
     ],
-    "sustento": "LGSMIME Art. 7 y Unidad 5, sección 5.2. En proceso electoral, todos los días son hábiles [42].",
+    "sustento": "LGSMIME Art. 7. En proceso electoral, todos los días son hábiles [42].",
     "categoria": "Sistema Electoral"
   },
   {
@@ -13895,7 +13895,7 @@
       { "text": "Juicio de Inconformidad (JIN).", "correct": true },
       { "text": "Recurso de Apelación (RAP).", "correct": false }
     ],
-    "sustento": "LGSMIME Art. 49 y Unidad 5, sección 5.3. El JIN procede para controvertir resultados de elecciones federales [43].",
+    "sustento": "LGSMIME Art. 49. El JIN procede para controvertir resultados de elecciones federales [43].",
     "categoria": "Sistema Electoral"
   },
   {
@@ -13906,7 +13906,7 @@
       { "text": "Recurso de Revisión (RRV).", "correct": false },
       { "text": "Asunto General (AG).", "correct": false }
     ],
-    "sustento": "LGSMIME Art. 61 y Unidad 5, sección 5.4. El REC permite revisar el control de constitucionalidad de las Salas Regionales [44, 45].",
+    "sustento": "LGSMIME Art. 61. El REC permite revisar el control de constitucionalidad de las Salas Regionales [44, 45].",
     "categoria": "Sistema Electoral"
   },
   {
@@ -13917,7 +13917,7 @@
       { "text": "Ante el TEPJF mediante el Juicio para dirimir los conflictos laborales (JLI).", "correct": true },
       { "text": "Ante el Tribunal Federal de Justicia Administrativa.", "correct": false }
     ],
-    "sustento": "LGSMIME Art. 96 y Unidad 5, sección 5.3. El JLI garantiza derechos laborales de servidores del INE ante el TEPJF [46].",
+    "sustento": "LGSMIME Art. 96. El JLI garantiza derechos laborales de servidores del INE ante el TEPJF [46].",
     "categoria": "Sistema Político"
   },
   {
@@ -13928,7 +13928,7 @@
       { "text": "Juicio Electoral (JE).", "correct": false },
       { "text": "Recurso de Apelación (RAP).", "correct": false }
     ],
-    "sustento": "LGSMIME Art. 35 y Unidad 5, sección 5.4. El RRV procede contra actos de órganos del INE fuera de proceso [47, 48].",
+    "sustento": "LGSMIME Art. 35. El RRV procede contra actos de órganos del INE fuera de proceso [47, 48].",
     "categoria": "Sistema Electoral"
   },
   {
@@ -13939,7 +13939,7 @@
       { "text": "Juicio de Revisión Constitucional Electoral (JRC).", "correct": true },
       { "text": "Juicio para la Protección de los Derechos Políticos.", "correct": false }
     ],
-    "sustento": "LGSMIME Art. 86, 87 y Unidad 5, sección 5.3. El JRC sirve para impugnar actos de autoridades locales que califiquen comicios [49, 50].",
+    "sustento": "LGSMIME Art. 86, 87. El JRC sirve para impugnar actos de autoridades locales que califiquen comicios [49, 50].",
     "categoria": "Sistema Electoral"
   },
   {
@@ -13950,7 +13950,7 @@
       { "text": "72 horas.", "correct": true },
       { "text": "48 horas.", "correct": false }
     ],
-    "sustento": "LGSMIME Art. 17 y Unidad 5, sección 5.2. El trámite implica publicitar la demanda por 72 horas para terceros interesados [51].",
+    "sustento": "LGSMIME Art. 17. El trámite implica publicitar la demanda por 72 horas para terceros interesados [51].",
     "categoria": "Sistema Electoral"
   },
   {
@@ -13961,7 +13961,7 @@
       { "text": "Juicio para la protección de los derechos político-electorales del ciudadano (JDC).", "correct": true },
       { "text": "Juicio de Inconformidad.", "correct": false }
     ],
-    "sustento": "LGSMIME Art. 79 y Unidad 5, sección 5.3. El JDC protege el derecho a ser votado de los ciudadanos [52, 53].",
+    "sustento": "LGSMIME Art. 79. El JDC protege el derecho a ser votado de los ciudadanos [52, 53].",
     "categoria": "Sistema Electoral"
   },
   {
@@ -13972,7 +13972,7 @@
       { "text": "Ausencia de efectos suspensivos.", "correct": true },
       { "text": "Plenitud de jurisdicción.", "correct": false }
     ],
-    "sustento": "CPEUM Art. 41 y Unidad 5, sección 5.2. La impugnación no detiene el proceso electoral por la firmeza de sus etapas [54].",
+    "sustento": "CPEUM Art. 41. La impugnación no detiene el proceso electoral por la firmeza de sus etapas [54].",
     "categoria": "Sistema Electoral"
   },
   {
@@ -13983,7 +13983,7 @@
       { "text": "Solo puede registrarse si paga una multa.", "correct": false },
       { "text": "No tiene impacto si la violencia fue hace más de 10 años.", "correct": false }
     ],
-    "sustento": "Unidad 2, sección 2.3. La violencia política de género puede afectar el requisito de modo honesto de vivir y la elegibilidad [55].",
+    "sustento": "La violencia política de género puede afectar el requisito de modo honesto de vivir y la elegibilidad [55].",
     "categoria": "Sistema Político"
   },
   {
@@ -13994,7 +13994,7 @@
       { "text": "Derecho de autogobierno bajo sistemas normativos internos (usos y costumbres).", "correct": true },
       { "text": "Acuerdo de excepción administrativa.", "correct": false }
     ],
-    "sustento": "CPEUM Art. 2 y Unidad 2, sección 2.3. Las comunidades indígenas tienen derecho al autogobierno según sus normas tradicionales [56, 57].",
+    "sustento": "CPEUM Art. 2. Las comunidades indígenas tienen derecho al autogobierno según sus normas tradicionales [56, 57].",
     "categoria": "Sistema Político"
   },
   {
@@ -14005,7 +14005,7 @@
       { "text": "Haber concluido el doctorado con mención honorífica.", "correct": false },
       { "text": "Promedio de 8.5 en cualquier carrera profesional.", "correct": false }
     ],
-    "sustento": "CPEUM Art. 95 y Unidad 2, sección 2.2. Se requiere promedio de 8 general y 9 en materias relacionadas [58].",
+    "sustento": "CPEUM Art. 95. Se requiere promedio de 8 general y 9 en materias relacionadas [58].",
     "categoria": "Sistema Político"
   },
   {
@@ -14016,7 +14016,7 @@
       { "text": "Voto Válido, si la intención del elector es clara.", "correct": true },
       { "text": "Voto para Candidatura no Registrada.", "correct": false }
     ],
-    "sustento": "Unidad 2, sección 2.5. El uso de apodos o siglas cuenta como voto válido si la intención es clara [59, 60].",
+    "sustento": "El uso de apodos o siglas cuenta como voto válido si la intención es clara [59, 60].",
     "categoria": "Sistema Electoral"
   },
   {
@@ -14027,7 +14027,7 @@
       { "text": "3%", "correct": true },
       { "text": "1.5%", "correct": false }
     ],
-    "sustento": "LGPP Art. 94 y Unidad 2, sección 2.1. Se pierde el registro si no se obtiene al menos el 3% de la votación [61].",
+    "sustento": "LGPP Art. 94. Se pierde el registro si no se obtiene al menos el 3% de la votación [61].",
     "categoria": "Sistema Político"
   },
   {
@@ -14038,7 +14038,7 @@
       { "text": "Presidente y Senadurías.", "correct": true },
       { "text": "Diputaciones Federales únicamente.", "correct": false }
     ],
-    "sustento": "LEGIPE Art. 329 y Unidad 2, sección 2.4. Los residentes en el extranjero votan por Presidente y Senadores [2].",
+    "sustento": "LEGIPE Art. 329. Los residentes en el extranjero votan por Presidente y Senadores [2].",
     "categoria": "Sistema Electoral"
   },
   {
@@ -14049,7 +14049,7 @@
       { "text": "Insaculación.", "correct": true },
       { "text": "Referéndum.", "correct": false }
     ],
-    "sustento": "LEGIPE Art. 254 y Unidad 2, sección 2.5. El INE nombra funcionarios mediante insaculación [62].",
+    "sustento": "LEGIPE Art. 254. El INE nombra funcionarios mediante insaculación [62].",
     "categoria": "Sistema Electoral"
   },
   {
@@ -14060,7 +14060,7 @@
       { "text": "Gramatical, Sistemático y Funcional.", "correct": true },
       { "text": "Analógico, Directo y Proporcional.", "correct": false }
     ],
-    "sustento": "LGSMIME Art. 2 y Unidad 5, sección 5.1. Los criterios de interpretación son gramatical, sistemático y funcional [63, 64].",
+    "sustento": "LGSMIME Art. 2. Los criterios de interpretación son gramatical, sistemático y funcional [63, 64].",
     "categoria": "Sistema Político"
   },
   {
@@ -14071,7 +14071,7 @@
       { "text": "Coadyuvante.", "correct": true },
       { "text": "Amicus Curiae.", "correct": false }
     ],
-    "sustento": "LGSMIME Art. 12 y Unidad 5, sección 5.1. Los candidatos pueden intervenir como coadyuvantes de sus partidos [65].",
+    "sustento": "LGSMIME Art. 12. Los candidatos pueden intervenir como coadyuvantes de sus partidos [65].",
     "categoria": "Sistema Electoral"
   },
   {
@@ -14082,7 +14082,7 @@
       { "text": "Amonestación o Multa.", "correct": true },
       { "text": "Pérdida de la ciudadanía.", "correct": false }
     ],
-    "sustento": "LGSMIME Art. 32 y Unidad 5, sección 5.2. El TEPJF cuenta con medidas de apremio y correcciones disciplinarias [66, 67].",
+    "sustento": "LGSMIME Art. 32. El TEPJF cuenta con medidas de apremio y correcciones disciplinarias [66, 67].",
     "categoria": "Sistema Electoral"
   },
   {
@@ -14093,7 +14093,7 @@
       { "text": "Unidad Técnica de Fiscalización.", "correct": true },
       { "text": "Junta General Ejecutiva.", "correct": false }
     ],
-    "sustento": "Unidad 3, sección 3.1. El INE tiene la facultad de fiscalización de todos los ingresos y egresos de partidos [68].",
+    "sustento": "El INE tiene la facultad de fiscalización de todos los ingresos y egresos de partidos [68].",
     "categoria": "Sistema Electoral"
   },
   {
@@ -14104,7 +14104,7 @@
       { "text": "La o el Magistrado Presidente.", "correct": true },
       { "text": "Se debe llamar a un ministro de la Corte para desempatar.", "correct": false }
     ],
-    "sustento": "LOPJF Art. 254 y Unidad 3, sección 3.3. El presidente cuenta con voto de calidad en caso de empate [69].",
+    "sustento": "LOPJF Art. 254. El presidente cuenta con voto de calidad en caso de empate [69].",
     "categoria": "Sistema Político"
   },
   {
@@ -14115,7 +14115,7 @@
       { "text": "Recurso de Apelación (RAP).", "correct": true },
       { "text": "Recurso de Revisión de Procedimiento Especial.", "correct": false }
     ],
-    "sustento": "LGSMIME Art. 40 y Unidad 5, sección 5.4. El RAP procede contra actos de órganos del INE que causen perjuicio [70, 71].",
+    "sustento": "LGSMIME Art. 40. El RAP procede contra actos de órganos del INE que causen perjuicio [70, 71].",
     "categoria": "Sistema Político"
   },
   {
@@ -14126,7 +14126,7 @@
       { "text": "Formal o procedimental.", "correct": true },
       { "text": "Sustantiva.", "correct": false }
     ],
-    "sustento": "Unidad 4, sección 4.1. La validez formal se refiere a las competencias y pasos para dictar normas [72].",
+    "sustento": "La validez formal se refiere a las competencias y pasos para dictar normas [72].",
     "categoria": "Sistema Político"
   }
 ]
